@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> SiteTest</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="../css/estilo2.css">
+    </head>
+
+    <body>
+        <div id="envolocro">
+            <header>
+                
+                    <h1>Amigos do Bem</h1>
+                    <nav>
+                        <ul>
+                            <li><a href=""> Home</a> </li>
+                            <li><a href=""> Sobre</a></li>
+                            <li><a href=""> Contate-nos</a></li>
+                        </ul>
+                    </nav>
+                </header>
+                <div id="sessoes">
+                    <section>  
+                        <h2>Comunidade Unida</h2>
+                        <p>
+                            Amor aopróxumo não conhece fronteiras ideológicas e religiosas
+                        </p>
+                    </section>
+                </div>
+                <div id="partimg">
+                    <article>  
+                        <p>Vamos ajudar?</p> 
+                        <img src="../img.jfif" alt="imagem1">        
+                    </article>
+                </div>
+            <div id="barral">
+                <aside>
+                    <P>Mesagens que faz nosso dia mais feliz</P>
+                </div>        
+                </aside>
+        </div>
+            <footer> 
+                <p>Apoio: </p>
+            </footer>
+    </div>
+    </body>
+</html>
